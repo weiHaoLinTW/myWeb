@@ -1,37 +1,27 @@
-## Welcome to Wei-Hao Lin's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/weiHaoLinTW/myWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weiHaoLinTW/myWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>  
+<meta charset="BIG5">
+<title>可以用中文 呵呵</title>
+</head>
+  <body style="background-color:powderblue;">
+    <!--write your header here -->
+    <header  style="background-color: yellow;">my header</header>
+    
+    <!--write your nav here -->
+    <nav   style="background-color: rgb(0, 247, 0);">my nav</nav>
+    
+    <!--write your section here -->
+    <section   style="background-color: red;">my section</section>
+    
+    <!--write your article here -->
+    <article   style="background-color: purple;">my article</article>
+    
+    <!--write your aside here -->
+    <aside   style="background-color: rgb(124, 124, 124);">my aside</aside>
+    
+    <!--write your footer here -->
+    <footer   style="background-color: bisque;">my footer</footer>
+    </body>
+</html>
